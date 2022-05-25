@@ -1,0 +1,7 @@
+
+#header-site .navbar-brand #mobileLogo {
+	transition: all 0.3s ease-in-out;
+	max-height: 6rem;
+	min-width: 15.29rem;
+}
+
